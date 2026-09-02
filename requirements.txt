@@ -53,3 +53,4 @@ logfire                     # Pydantic Logfire for distributed system tracing
 logfire[fastapi]            # Automatic Logfire instrumentation for FastAPI
 logfire[requests]           # To link Streamlit UI traces to the backend
 loguru                      # Enhanced logging for Python
+sentence-transformers
